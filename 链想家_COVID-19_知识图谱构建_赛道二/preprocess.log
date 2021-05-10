@@ -1,0 +1,390 @@
+2021-05-10 19:38:11,719 - ERROR: error at train_10, can't find entity COVID-19 2671 2679 index in tokenstruc_s.
+2021-05-10 19:38:11,728 - ERROR: error at train_15, can't find entity vaccine 1011 1018 index in tokenstruc_s.
+2021-05-10 19:38:11,809 - ERROR: error at train_53, can't find entity COVID-19 1946 1954 index in tokenstruc_s.
+2021-05-10 19:38:11,809 - ERROR: error at train_53, can't find entity pneumonia visiting 1972 1990 index in tokenstruc_s.
+2021-05-10 19:38:11,820 - ERROR: error at train_55, can't find entity vaccine 473 480 index in tokenstruc_s.
+2021-05-10 19:38:11,820 - ERROR: error at train_55, can't find entity vaccine 2270 2277 index in tokenstruc_s.
+2021-05-10 19:38:11,823 - ERROR: error at train_56, can't find entity darunavir 1160 1169 index in tokenstruc_s.
+2021-05-10 19:38:11,830 - ERROR: error at train_60, can't find entity SARS-CoV-2 1132 1142 index in tokenstruc_s.
+2021-05-10 19:38:11,831 - ERROR: error at train_60, can't find entity vaccine 1335 1342 index in tokenstruc_s.
+2021-05-10 19:38:11,834 - ERROR: error at train_61, can't find entity SARS-CoV-2 1689 1699 index in tokenstruc_s.
+2021-05-10 19:38:11,835 - ERROR: error at train_62, can't find entity cancer 320 326 index in tokenstruc_s.
+2021-05-10 19:38:11,838 - ERROR: error at train_64, can't find entity BKV 421 424 index in tokenstruc_s.
+2021-05-10 19:38:11,867 - ERROR: error at train_74, can't find entity fusion inhibitor 94 110 index in tokenstruc_s.
+2021-05-10 19:38:11,870 - ERROR: error at train_76, can't find entity vitamin A 451 460 index in tokenstruc_s.
+2021-05-10 19:38:11,878 - ERROR: error at train_81, can't find entity Doxorubicin 168 179 index in tokenstruc_s.
+2021-05-10 19:38:11,892 - ERROR: error at train_87, can't find entity COVID-19 117 125 index in tokenstruc_s.
+2021-05-10 19:38:11,902 - ERROR: error at train_92, can't find entity COVID-19 859 867 index in tokenstruc_s.
+2021-05-10 19:38:11,902 - ERROR: error at train_92, can't find entity morphine 1040 1048 index in tokenstruc_s.
+2021-05-10 19:38:11,902 - ERROR: error at train_92, can't find entity COVID-19 1659 1667 index in tokenstruc_s.
+2021-05-10 19:38:11,912 - ERROR: error at train_93, can't find entity COVID-19 1081 1089 index in tokenstruc_s.
+2021-05-10 19:38:11,916 - ERROR: error at train_94, can't find entity vaccine 1675 1682 index in tokenstruc_s.
+2021-05-10 19:38:11,929 - ERROR: error at train_99, can't find entity Hemoglobin 1264 1274 index in tokenstruc_s.
+2021-05-10 19:38:11,968 - ERROR: error at train_116, can't find entity COVID-19 1490 1498 index in tokenstruc_s.
+2021-05-10 19:38:11,973 - ERROR: error at train_119, can't find entity HIV 460 463 index in tokenstruc_s.
+2021-05-10 19:38:11,982 - ERROR: error at train_125, can't find entity metropolis 1762 1772 index in tokenstruc_s.
+2021-05-10 19:38:11,991 - ERROR: error at train_127, can't find entity antivirals 2255 2265 index in tokenstruc_s.
+2021-05-10 19:38:11,991 - ERROR: error at train_127, can't find entity EBOV 3205 3209 index in tokenstruc_s.
+2021-05-10 19:38:12,001 - ERROR: error at train_129, can't find entity chloroquine 3184 3195 index in tokenstruc_s.
+2021-05-10 19:38:12,004 - ERROR: error at train_131, can't find entity stroke 596 602 index in tokenstruc_s.
+2021-05-10 19:38:12,011 - ERROR: error at train_136, can't find entity CSF1R tyrosine kinase inhibitors 314 346 index in tokenstruc_s.
+2021-05-10 19:38:12,016 - ERROR: error at train_138, can't find entity medications 341 352 index in tokenstruc_s.
+2021-05-10 19:38:12,016 - ERROR: error at train_138, can't find entity medications 1561 1572 index in tokenstruc_s.
+2021-05-10 19:38:12,016 - ERROR: error at train_138, can't find entity medications 1774 1785 index in tokenstruc_s.
+2021-05-10 19:38:12,026 - ERROR: error at train_143, can't find entity Leflunomide/Teriflunomide 1591 1616 index in tokenstruc_s.
+2021-05-10 19:38:12,062 - ERROR: error at train_158, can't find entity murine 2177 2183 index in tokenstruc_s.
+2021-05-10 19:38:12,089 - ERROR: error at train_168, can't find entity COVID-19 419 427 index in tokenstruc_s.
+2021-05-10 19:38:12,099 - ERROR: error at train_172, can't find entity anaesthetic regimen 225 244 index in tokenstruc_s.
+2021-05-10 19:38:12,099 - ERROR: error at train_172, can't find entity anaesthetic regimen 689 708 index in tokenstruc_s.
+2021-05-10 19:38:12,103 - ERROR: error at train_173, can't find entity vaccines 1488 1496 index in tokenstruc_s.
+2021-05-10 19:38:12,109 - ERROR: error at train_178, can't find entity Charcot 297 304 index in tokenstruc_s.
+2021-05-10 19:38:12,115 - ERROR: error at train_179, can't find entity SARS-CoV-2 1518 1528 index in tokenstruc_s.
+2021-05-10 19:38:12,115 - ERROR: error at train_179, can't find entity COVID-19 1763 1771 index in tokenstruc_s.
+2021-05-10 19:38:12,125 - ERROR: error at train_184, can't find entity azithromycin 1961 1973 index in tokenstruc_s.
+2021-05-10 19:38:12,136 - ERROR: error at train_188, can't find entity airborne 2102 2110 index in tokenstruc_s.
+2021-05-10 19:38:12,147 - ERROR: error at train_194, can't find entity antiviral agents 330 346 index in tokenstruc_s.
+2021-05-10 19:38:12,150 - ERROR: error at train_197, can't find entity Pexidartinib 309 321 index in tokenstruc_s.
+2021-05-10 19:38:12,159 - ERROR: error at train_200, can't find entity COVID-19 2499 2507 index in tokenstruc_s.
+2021-05-10 19:38:12,167 - ERROR: error at train_205, can't find entity lower respiratory tract infections 99 133 index in tokenstruc_s.
+2021-05-10 19:38:12,188 - ERROR: error at train_219, can't find entity COVID-19 929 937 index in tokenstruc_s.
+2021-05-10 19:38:12,194 - ERROR: error at train_221, can't find entity arbidol 509 516 index in tokenstruc_s.
+2021-05-10 19:38:12,194 - ERROR: error at train_221, can't find entity antiviral medication 739 759 index in tokenstruc_s.
+2021-05-10 19:38:12,194 - ERROR: error at train_221, can't find entity arbidol 1610 1617 index in tokenstruc_s.
+2021-05-10 19:38:12,195 - ERROR: error at train_222, can't find entity statin 102 108 index in tokenstruc_s.
+2021-05-10 19:38:12,203 - ERROR: error at train_226, can't find entity COVID-19 883 891 index in tokenstruc_s.
+2021-05-10 19:38:12,203 - ERROR: error at train_226, can't find entity COVID-19 1368 1376 index in tokenstruc_s.
+2021-05-10 19:38:12,204 - ERROR: error at train_226, can't find entity COVID-19 1684 1692 index in tokenstruc_s.
+2021-05-10 19:38:12,213 - ERROR: error at train_229, can't find entity chloroquine 1653 1664 index in tokenstruc_s.
+2021-05-10 19:38:12,213 - ERROR: error at train_229, can't find entity chloroquine 1791 1802 index in tokenstruc_s.
+2021-05-10 19:38:12,213 - ERROR: error at train_229, can't find entity COVID-19 1824 1832 index in tokenstruc_s.
+2021-05-10 19:38:12,225 - ERROR: error at train_232, can't find entity acute respiratory syndrome coronavirus 2 132 172 index in tokenstruc_s.
+2021-05-10 19:38:12,262 - ERROR: error at train_235, can't find entity public-private partnerships 906 933 index in tokenstruc_s.
+2021-05-10 19:38:12,282 - ERROR: error at train_242, can't find entity COVID-19 1962 1970 index in tokenstruc_s.
+2021-05-10 19:38:12,282 - ERROR: error at train_242, can't find entity COVID-19 2092 2100 index in tokenstruc_s.
+2021-05-10 19:38:12,285 - ERROR: error at train_243, can't find entity Small Molecules 164 179 index in tokenstruc_s.
+2021-05-10 19:38:12,290 - ERROR: error at train_245, can't find entity protease inhibitor 561 579 index in tokenstruc_s.
+2021-05-10 19:38:12,290 - ERROR: error at train_245, can't find entity protease inhibitor 561 579 index in tokenstruc_s.
+2021-05-10 19:38:12,290 - ERROR: error at train_245, can't find entity HIV drugs 936 945 index in tokenstruc_s.
+2021-05-10 19:38:12,295 - ERROR: error at train_246, can't find entity azithromycin 1518 1530 index in tokenstruc_s.
+2021-05-10 19:38:12,303 - ERROR: error at train_249, can't find entity chloroquine 1865 1876 index in tokenstruc_s.
+2021-05-10 19:38:12,308 - ERROR: error at train_251, can't find entity COVID-19 138 146 index in tokenstruc_s.
+2021-05-10 19:38:12,308 - ERROR: error at train_251, can't find entity SARS-CoV-2 1358 1368 index in tokenstruc_s.
+2021-05-10 19:38:12,359 - ERROR: error at train_273, can't find entity methylprednisolone 928 946 index in tokenstruc_s.
+2021-05-10 19:38:12,360 - ERROR: error at train_273, can't find entity COVID-19 1067 1075 index in tokenstruc_s.
+2021-05-10 19:38:12,360 - ERROR: error at train_273, can't find entity antiviral drugs 1735 1750 index in tokenstruc_s.
+2021-05-10 19:38:12,360 - ERROR: error at train_273, can't find entity methylprednisolone 2653 2671 index in tokenstruc_s.
+2021-05-10 19:38:12,381 - ERROR: error at train_280, can't find entity mediators 2455 2464 index in tokenstruc_s.
+2021-05-10 19:38:12,393 - ERROR: error at train_283, can't find entity vaccine 530 537 index in tokenstruc_s.
+2021-05-10 19:38:12,393 - ERROR: error at train_283, can't find entity vaccine 1356 1363 index in tokenstruc_s.
+2021-05-10 19:38:12,422 - ERROR: error at train_295, can't find entity coronavirus infection 186 207 index in tokenstruc_s.
+2021-05-10 19:38:12,462 - ERROR: error at train_313, can't find entity SARS-CoV 1940 1948 index in tokenstruc_s.
+2021-05-10 19:38:12,465 - ERROR: error at train_314, can't find entity androgens 1032 1041 index in tokenstruc_s.
+2021-05-10 19:38:12,470 - ERROR: error at train_317, can't find entity COVID-19 772 780 index in tokenstruc_s.
+2021-05-10 19:38:12,477 - ERROR: error at train_319, can't find entity COVID-19 879 887 index in tokenstruc_s.
+2021-05-10 19:38:12,483 - ERROR: error at train_321, can't find entity Bergamo 642 649 index in tokenstruc_s.
+2021-05-10 19:38:12,502 - ERROR: error at train_331, can't find entity SARS-CoV-2 1015 1025 index in tokenstruc_s.
+2021-05-10 19:38:12,513 - ERROR: error at train_333, can't find entity hydroxychloroquine 1556 1574 index in tokenstruc_s.
+2021-05-10 19:38:12,513 - ERROR: error at train_333, can't find entity HCQ 1833 1836 index in tokenstruc_s.
+2021-05-10 19:38:12,522 - ERROR: error at train_338, can't find entity endocrine therapy 409 426 index in tokenstruc_s.
+2021-05-10 19:38:12,546 - ERROR: error at train_348, can't find entity 99mTc-MDP 298 307 index in tokenstruc_s.
+2021-05-10 19:38:12,547 - ERROR: error at train_348, can't find entity 99mTc-MDP group 538 553 index in tokenstruc_s.
+2021-05-10 19:38:12,547 - ERROR: error at train_348, can't find entity 99mTc-MDP 1665 1674 index in tokenstruc_s.
+2021-05-10 19:38:12,551 - ERROR: error at train_349, can't find entity toremifene 1483 1493 index in tokenstruc_s.
+2021-05-10 19:38:12,606 - ERROR: error at train_379, can't find entity COVID-19 2156 2164 index in tokenstruc_s.
+2021-05-10 19:38:12,611 - ERROR: error at train_381, can't find entity COVID-19 1703 1711 index in tokenstruc_s.
+2021-05-10 19:38:12,612 - ERROR: error at train_382, can't find entity pemphigus vulgaris 469 487 index in tokenstruc_s.
+2021-05-10 19:38:12,616 - ERROR: error at train_383, can't find entity SARS-CoV-2 978 988 index in tokenstruc_s.
+2021-05-10 19:38:12,627 - ERROR: error at train_389, can't find entity HIV 509 512 index in tokenstruc_s.
+2021-05-10 19:38:12,659 - ERROR: error at train_406, can't find entity NAPs 1128 1132 index in tokenstruc_s.
+2021-05-10 19:38:12,660 - ERROR: error at train_406, can't find entity liposomes 1199 1208 index in tokenstruc_s.
+2021-05-10 19:38:12,661 - ERROR: error at train_407, can't find entity trauma system 425 438 index in tokenstruc_s.
+2021-05-10 19:38:12,664 - ERROR: error at train_410, can't find entity pneumonia 427 436 index in tokenstruc_s.
+2021-05-10 19:38:12,683 - ERROR: error at train_417, can't find entity enoxaparin 308 318 index in tokenstruc_s.
+2021-05-10 19:38:12,684 - ERROR: error at train_418, can't find entity antiretroviral treatment 525 549 index in tokenstruc_s.
+2021-05-10 19:38:12,690 - ERROR: error at train_423, can't find entity diarrhoea 690 699 index in tokenstruc_s.
+2021-05-10 19:38:12,699 - ERROR: error at train_426, can't find entity COVID-19 956 964 index in tokenstruc_s.
+2021-05-10 19:38:12,699 - ERROR: error at train_426, can't find entity glucocorticoids 1944 1959 index in tokenstruc_s.
+2021-05-10 19:38:12,725 - ERROR: error at train_439, can't find entity vaccines 439 447 index in tokenstruc_s.
+2021-05-10 19:38:12,742 - ERROR: error at train_448, can't find entity protease inhibitors 516 535 index in tokenstruc_s.
+2021-05-10 19:38:12,746 - ERROR: error at train_450, can't find entity aromatase inhibitors 226 246 index in tokenstruc_s.
+2021-05-10 19:38:12,767 - ERROR: error at train_459, can't find entity diabetes mellitus 1160 1177 index in tokenstruc_s.
+2021-05-10 19:38:12,775 - ERROR: error at train_464, can't find entity cancer 212 218 index in tokenstruc_s.
+2021-05-10 19:38:12,784 - ERROR: error at train_468, can't find entity COVID-19 753 761 index in tokenstruc_s.
+2021-05-10 19:38:12,799 - ERROR: error at train_476, can't find entity HCQ 1803 1806 index in tokenstruc_s.
+2021-05-10 19:38:12,810 - ERROR: error at train_479, can't find entity Entecavir 2235 2244 index in tokenstruc_s.
+2021-05-10 19:38:12,815 - ERROR: error at train_480, can't find entity COVID-19 1729 1737 index in tokenstruc_s.
+2021-05-10 19:38:12,829 - ERROR: error at train_486, can't find entity Q fever 409 416 index in tokenstruc_s.
+2021-05-10 19:38:12,834 - ERROR: error at train_488, can't find entity Angiotensin 273 284 index in tokenstruc_s.
+2021-05-10 19:38:12,834 - ERROR: error at train_488, can't find entity antiviral drugs 1319 1334 index in tokenstruc_s.
+2021-05-10 19:38:12,838 - ERROR: error at train_489, can't find entity adamantine 1816 1826 index in tokenstruc_s.
+2021-05-10 19:38:12,848 - ERROR: error at train_491, can't find entity uric acid 2376 2385 index in tokenstruc_s.
+2021-05-10 19:38:12,848 - ERROR: error at train_491, can't find entity COVID-19 2453 2461 index in tokenstruc_s.
+2021-05-10 19:38:12,854 - ERROR: error at train_494, can't find entity respiratory syndrome 944 964 index in tokenstruc_s.
+2021-05-10 19:38:12,881 - ERROR: error at train_506, can't find entity diabetes 1551 1559 index in tokenstruc_s.
+2021-05-10 19:38:12,891 - ERROR: error at train_511, can't find entity 2019-nCoV 360 369 index in tokenstruc_s.
+2021-05-10 19:38:12,900 - ERROR: error at train_513, can't find entity COVID-19 2155 2163 index in tokenstruc_s.
+2021-05-10 19:38:12,906 - ERROR: error at train_515, can't find entity antiviral peptide drugs 1939 1962 index in tokenstruc_s.
+2021-05-10 19:38:12,912 - ERROR: error at train_520, can't find entity HCV 327 330 index in tokenstruc_s.
+2021-05-10 19:38:12,935 - ERROR: error at train_529, can't find entity COVID-19 1040 1048 index in tokenstruc_s.
+2021-05-10 19:38:12,935 - ERROR: error at train_529, can't find entity garlic 1281 1287 index in tokenstruc_s.
+2021-05-10 19:38:12,958 - ERROR: error at train_539, can't find entity tandem 633 639 index in tokenstruc_s.
+2021-05-10 19:38:12,963 - ERROR: error at train_543, can't find entity avelumab 251 259 index in tokenstruc_s.
+2021-05-10 19:38:12,971 - ERROR: error at train_545, can't find entity vaccines 1706 1714 index in tokenstruc_s.
+2021-05-10 19:38:12,980 - ERROR: error at train_550, can't find entity COVID-19 1949 1957 index in tokenstruc_s.
+2021-05-10 19:38:13,020 - ERROR: error at train_576, can't find entity glucocorticoid 619 633 index in tokenstruc_s.
+2021-05-10 19:38:13,036 - ERROR: error at train_581, can't find entity antibiotics 1910 1921 index in tokenstruc_s.
+2021-05-10 19:38:13,047 - ERROR: error at train_586, can't find entity ACE-inhibitors 251 265 index in tokenstruc_s.
+2021-05-10 19:38:13,048 - ERROR: error at train_586, can't find entity ACE-inhibitors 1266 1280 index in tokenstruc_s.
+2021-05-10 19:38:13,056 - ERROR: error at train_590, can't find entity Viruses 1194 1201 index in tokenstruc_s.
+2021-05-10 19:38:13,070 - ERROR: error at train_598, can't find entity antiretroviral treatment 246 270 index in tokenstruc_s.
+2021-05-10 19:38:13,085 - ERROR: error at train_605, can't find entity HCQ 2262 2265 index in tokenstruc_s.
+2021-05-10 19:38:13,085 - ERROR: error at train_605, can't find entity HCQ 2262 2265 index in tokenstruc_s.
+2021-05-10 19:38:13,085 - ERROR: error at train_605, can't find entity COVID-19 2405 2413 index in tokenstruc_s.
+2021-05-10 19:38:13,094 - ERROR: error at train_608, can't find entity crude 2178 2183 index in tokenstruc_s.
+2021-05-10 19:38:13,098 - ERROR: error at train_609, can't find entity COVID-19 1331 1339 index in tokenstruc_s.
+2021-05-10 19:38:13,110 - ERROR: error at train_614, can't find entity HCQ 1598 1601 index in tokenstruc_s.
+2021-05-10 19:38:13,126 - ERROR: error at train_621, can't find entity COVID-19 559 567 index in tokenstruc_s.
+2021-05-10 19:38:13,126 - ERROR: error at train_621, can't find entity respiratory disease 1046 1065 index in tokenstruc_s.
+2021-05-10 19:38:13,126 - ERROR: error at train_621, can't find entity COVID-19 1726 1734 index in tokenstruc_s.
+2021-05-10 19:38:13,159 - ERROR: error at train_642, can't find entity COVID-19 237 245 index in tokenstruc_s.
+2021-05-10 19:38:13,167 - ERROR: error at train_646, can't find entity DMARDs 1588 1594 index in tokenstruc_s.
+2021-05-10 19:38:13,181 - ERROR: error at train_653, can't find entity COVID-19 864 872 index in tokenstruc_s.
+2021-05-10 19:38:13,184 - ERROR: error at train_654, can't find entity 2019-nCoV 1122 1131 index in tokenstruc_s.
+2021-05-10 19:38:13,193 - ERROR: error at train_658, can't find entity vaccine 1365 1372 index in tokenstruc_s.
+2021-05-10 19:38:13,261 - ERROR: error at train_669, can't find entity betacoronavirus 154 169 index in tokenstruc_s.
+2021-05-10 19:38:13,273 - ERROR: error at train_675, can't find entity structure-based 923 938 index in tokenstruc_s.
+2021-05-10 19:38:13,278 - ERROR: error at train_677, can't find entity water 791 796 index in tokenstruc_s.
+2021-05-10 19:38:13,281 - ERROR: error at train_679, can't find entity HDL cholesterol 474 489 index in tokenstruc_s.
+2021-05-10 19:38:13,291 - ERROR: error at train_684, can't find entity SARS-CoV-2 1137 1147 index in tokenstruc_s.
+2021-05-10 19:38:13,311 - ERROR: error at train_690, can't find entity COVID-19 1027 1035 index in tokenstruc_s.
+2021-05-10 19:38:13,312 - ERROR: error at train_690, can't find entity COVID-19 1331 1339 index in tokenstruc_s.
+2021-05-10 19:38:13,312 - ERROR: error at train_690, can't find entity diarrhoea 1491 1500 index in tokenstruc_s.
+2021-05-10 19:38:13,312 - ERROR: error at train_690, can't find entity COVID-19 1555 1563 index in tokenstruc_s.
+2021-05-10 19:38:13,312 - ERROR: error at train_690, can't find entity COVID-19 2049 2057 index in tokenstruc_s.
+2021-05-10 19:38:13,317 - ERROR: error at train_692, can't find entity heparin 166 173 index in tokenstruc_s.
+2021-05-10 19:38:13,317 - ERROR: error at train_692, can't find entity COVID-19 246 254 index in tokenstruc_s.
+2021-05-10 19:38:13,318 - ERROR: error at train_692, can't find entity heparin 790 797 index in tokenstruc_s.
+2021-05-10 19:38:13,326 - ERROR: error at train_697, can't find entity antiviral drugs 246 261 index in tokenstruc_s.
+2021-05-10 19:38:13,334 - ERROR: error at train_701, can't find entity vaccines 376 384 index in tokenstruc_s.
+2021-05-10 19:38:13,334 - ERROR: error at train_701, can't find entity MMPD 1157 1161 index in tokenstruc_s.
+2021-05-10 19:38:13,342 - ERROR: error at train_707, can't find entity chloroquine 300 311 index in tokenstruc_s.
+2021-05-10 19:38:13,350 - ERROR: error at train_710, can't find entity kidney disease 1019 1033 index in tokenstruc_s.
+2021-05-10 19:38:13,358 - ERROR: error at train_712, can't find entity uric acid 1705 1714 index in tokenstruc_s.
+2021-05-10 19:38:13,358 - ERROR: error at train_712, can't find entity urea nitrogen 1875 1888 index in tokenstruc_s.
+2021-05-10 19:38:13,371 - ERROR: error at train_717, can't find entity COVID-19 1742 1750 index in tokenstruc_s.
+2021-05-10 19:38:13,383 - ERROR: error at train_720, can't find entity CML 1056 1059 index in tokenstruc_s.
+2021-05-10 19:38:13,404 - ERROR: error at train_730, can't find entity ivermectin 135 145 index in tokenstruc_s.
+2021-05-10 19:38:13,404 - ERROR: error at train_730, can't find entity ivermectin 197 207 index in tokenstruc_s.
+2021-05-10 19:38:13,407 - ERROR: error at train_731, can't find entity murine 1165 1171 index in tokenstruc_s.
+2021-05-10 19:38:13,407 - ERROR: error at train_731, can't find entity CoV 1378 1381 index in tokenstruc_s.
+2021-05-10 19:38:13,412 - ERROR: error at train_732, can't find entity antiviral drugs 1767 1782 index in tokenstruc_s.
+2021-05-10 19:38:13,448 - ERROR: error at train_746, can't find entity Hyaluronan 210 220 index in tokenstruc_s.
+2021-05-10 19:38:13,455 - ERROR: error at train_748, can't find entity monoclonal antibody 1400 1419 index in tokenstruc_s.
+2021-05-10 19:38:13,466 - ERROR: error at train_753, can't find entity 2019-nCoV 1046 1055 index in tokenstruc_s.
+2021-05-10 19:38:13,466 - ERROR: error at train_753, can't find entity 2019-nCoV 1150 1159 index in tokenstruc_s.
+2021-05-10 19:38:13,472 - ERROR: error at train_756, can't find entity COVID-19 1722 1730 index in tokenstruc_s.
+2021-05-10 19:38:13,481 - ERROR: error at train_760, can't find entity Ergot 257 262 index in tokenstruc_s.
+2021-05-10 19:38:13,483 - ERROR: error at train_761, can't find entity tubular casts 212 225 index in tokenstruc_s.
+2021-05-10 19:38:13,519 - ERROR: error at train_780, can't find entity nation 1303 1309 index in tokenstruc_s.
+2021-05-10 19:38:13,530 - ERROR: error at train_789, can't find entity multiple sclerosis 69 87 index in tokenstruc_s.
+2021-05-10 19:38:13,535 - ERROR: error at train_794, can't find entity Anxiety disorders 291 308 index in tokenstruc_s.
+2021-05-10 19:38:13,545 - ERROR: error at train_797, can't find entity DPE 1126 1129 index in tokenstruc_s.
+2021-05-10 19:38:13,551 - ERROR: error at train_803, can't find entity antivirals 400 410 index in tokenstruc_s.
+2021-05-10 19:38:13,552 - ERROR: error at train_803, can't find entity antiviral drugs 596 611 index in tokenstruc_s.
+2021-05-10 19:38:13,564 - ERROR: error at train_808, can't find entity COVID-19 1472 1480 index in tokenstruc_s.
+2021-05-10 19:38:13,564 - ERROR: error at train_808, can't find entity COVID-19 1886 1894 index in tokenstruc_s.
+2021-05-10 19:38:13,565 - ERROR: error at train_808, can't find entity COVID-19 2073 2081 index in tokenstruc_s.
+2021-05-10 19:38:13,565 - ERROR: error at train_808, can't find entity COVID-19 2553 2561 index in tokenstruc_s.
+2021-05-10 19:38:13,576 - ERROR: error at train_812, can't find entity corticosteroids 298 313 index in tokenstruc_s.
+2021-05-10 19:38:13,576 - ERROR: error at train_812, can't find entity corticosteroid 579 593 index in tokenstruc_s.
+2021-05-10 19:38:13,576 - ERROR: error at train_812, can't find entity corticosteroids 1598 1613 index in tokenstruc_s.
+2021-05-10 19:38:13,592 - ERROR: error at train_817, can't find entity SARS-CoV-2 1522 1532 index in tokenstruc_s.
+2021-05-10 19:38:13,594 - ERROR: error at train_818, can't find entity atazanavir 198 208 index in tokenstruc_s.
+2021-05-10 19:38:13,634 - ERROR: error at train_834, can't find entity COVID-19 1146 1154 index in tokenstruc_s.
+2021-05-10 19:38:13,667 - ERROR: error at train_843, can't find entity chloroquine 1924 1935 index in tokenstruc_s.
+2021-05-10 19:38:13,686 - ERROR: error at train_849, can't find entity reactive oxygen species inhibitor 764 797 index in tokenstruc_s.
+2021-05-10 19:38:13,686 - ERROR: error at train_849, can't find entity CEACAM1 862 869 index in tokenstruc_s.
+2021-05-10 19:38:13,692 - ERROR: error at train_852, can't find entity cancer 195 201 index in tokenstruc_s.
+2021-05-10 19:38:13,692 - ERROR: error at train_852, can't find entity stroke 432 438 index in tokenstruc_s.
+2021-05-10 19:38:13,697 - ERROR: error at train_853, can't find entity SARS-CoV-2 651 661 index in tokenstruc_s.
+2021-05-10 19:38:13,765 - ERROR: error at train_882, can't find entity paclitaxel 1214 1224 index in tokenstruc_s.
+2021-05-10 19:38:13,765 - ERROR: error at train_882, can't find entity SARS-CoV-2 1117 1127 index in tokenstruc_s.
+2021-05-10 19:38:13,765 - ERROR: error at train_882, can't find entity paclitaxel 1214 1224 index in tokenstruc_s.
+2021-05-10 19:38:13,779 - ERROR: error at train_890, can't find entity COVID-19 1424 1432 index in tokenstruc_s.
+2021-05-10 19:38:13,780 - ERROR: error at train_890, can't find entity COVID-19 1424 1432 index in tokenstruc_s.
+2021-05-10 19:38:13,791 - ERROR: error at train_895, can't find entity COVID-19 333 341 index in tokenstruc_s.
+2021-05-10 19:38:13,791 - ERROR: error at train_895, can't find entity SARS-CoV-2 215 225 index in tokenstruc_s.
+2021-05-10 19:38:13,791 - ERROR: error at train_895, can't find entity SARS-CoV-2 215 225 index in tokenstruc_s.
+2021-05-10 19:38:13,814 - ERROR: error at train_905, can't find entity SARS-CoV-2 1491 1501 index in tokenstruc_s.
+2021-05-10 19:38:13,814 - ERROR: error at train_905, can't find entity nelfinavir mesylate 2385 2404 index in tokenstruc_s.
+2021-05-10 19:38:13,832 - ERROR: error at train_913, can't find entity hydroxychloroquine 408 426 index in tokenstruc_s.
+2021-05-10 19:38:13,832 - ERROR: error at train_913, can't find entity chloroquine 606 617 index in tokenstruc_s.
+2021-05-10 19:38:13,832 - ERROR: error at train_913, can't find entity hydroxychloroquine 1249 1267 index in tokenstruc_s.
+2021-05-10 19:38:13,832 - ERROR: error at train_913, can't find entity hydroxychloroquine 1249 1267 index in tokenstruc_s.
+2021-05-10 19:38:13,833 - ERROR: error at train_913, can't find entity SARS-CoV-2 1299 1309 index in tokenstruc_s.
+2021-05-10 19:38:13,833 - ERROR: error at train_913, can't find entity chloroquine 1448 1459 index in tokenstruc_s.
+2021-05-10 19:38:13,833 - ERROR: error at train_913, can't find entity hydroxychloroquine 1726 1744 index in tokenstruc_s.
+2021-05-10 19:38:13,841 - ERROR: error at train_914, can't find entity COVID-19 2117 2125 index in tokenstruc_s.
+2021-05-10 19:38:13,842 - ERROR: error at train_914, can't find entity COVID-19 2270 2278 index in tokenstruc_s.
+2021-05-10 19:38:13,848 - ERROR: error at train_916, can't find entity malaria 184 191 index in tokenstruc_s.
+2021-05-10 19:38:13,854 - ERROR: error at train_918, can't find entity measles vaccine 550 565 index in tokenstruc_s.
+2021-05-10 19:38:13,866 - ERROR: error at train_923, can't find entity HBsAg 575 580 index in tokenstruc_s.
+2021-05-10 19:38:13,875 - ERROR: error at train_927, can't find entity hydroxychloroquine 1149 1167 index in tokenstruc_s.
+2021-05-10 19:38:13,876 - ERROR: error at train_927, can't find entity hydroxychloroquine 1325 1343 index in tokenstruc_s.
+2021-05-10 19:38:13,876 - ERROR: error at train_927, can't find entity hydroxychloroquine 1325 1343 index in tokenstruc_s.
+2021-05-10 19:38:13,892 - ERROR: error at train_934, can't find entity vaccine 354 361 index in tokenstruc_s.
+2021-05-10 19:38:13,910 - ERROR: error at train_940, can't find entity medicines 426 435 index in tokenstruc_s.
+2021-05-10 19:38:13,914 - ERROR: error at train_942, can't find entity COVID-19 1517 1525 index in tokenstruc_s.
+2021-05-10 19:38:13,921 - ERROR: error at train_944, can't find entity ZIKV 1064 1068 index in tokenstruc_s.
+2021-05-10 19:38:13,939 - ERROR: error at train_952, can't find entity COVID-19 928 936 index in tokenstruc_s.
+2021-05-10 19:38:13,939 - ERROR: error at train_952, can't find entity COVID-19 928 936 index in tokenstruc_s.
+2021-05-10 19:38:13,981 - ERROR: error at train_971, can't find entity Hydroxychloroquine 663 681 index in tokenstruc_s.
+2021-05-10 19:38:13,987 - ERROR: error at train_973, can't find entity HCQ 1476 1479 index in tokenstruc_s.
+2021-05-10 19:38:13,987 - ERROR: error at train_973, can't find entity HCQ 1715 1718 index in tokenstruc_s.
+2021-05-10 19:38:13,991 - ERROR: error at train_975, can't find entity CA 914 916 index in tokenstruc_s.
+2021-05-10 19:38:13,998 - ERROR: error at train_978, can't find entity COVID-19 491 499 index in tokenstruc_s.
+2021-05-10 19:38:13,998 - ERROR: error at train_978, can't find entity COVID-19 1270 1278 index in tokenstruc_s.
+2021-05-10 19:38:14,008 - ERROR: error at train_982, can't find entity CME 2416 2419 index in tokenstruc_s.
+2021-05-10 19:38:14,013 - ERROR: error at train_983, can't find entity COVID-19 452 460 index in tokenstruc_s.
+2021-05-10 19:38:14,029 - ERROR: error at train_993, can't find entity RCTs 709 713 index in tokenstruc_s.
+2021-05-10 19:38:14,030 - ERROR: error at train_993, can't find entity HCQ 1592 1595 index in tokenstruc_s.
+2021-05-10 19:38:14,030 - ERROR: error at train_993, can't find entity TSA 1688 1691 index in tokenstruc_s.
+2021-05-10 19:38:14,045 - ERROR: error at train_1003, can't find entity Zika virus 443 453 index in tokenstruc_s.
+2021-05-10 19:38:14,068 - ERROR: error at train_1013, can't find entity lgG 1034 1037 index in tokenstruc_s.
+2021-05-10 19:38:14,112 - ERROR: error at train_1030, can't find entity COVID-19 1995 2003 index in tokenstruc_s.
+2021-05-10 19:38:14,118 - ERROR: error at train_1033, can't find entity vaccine 2140 2147 index in tokenstruc_s.
+2021-05-10 19:38:14,124 - ERROR: error at train_1035, can't find entity COVID-19 492 500 index in tokenstruc_s.
+2021-05-10 19:38:14,137 - ERROR: error at train_1040, can't find entity diabetes mellitus 477 494 index in tokenstruc_s.
+2021-05-10 19:38:14,142 - ERROR: error at train_1042, can't find entity COVID-19 1098 1106 index in tokenstruc_s.
+2021-05-10 19:38:14,166 - ERROR: error at train_1053, can't find entity antineoplastic drug 501 520 index in tokenstruc_s.
+2021-05-10 19:38:14,175 - ERROR: error at train_1059, can't find entity vaccine 427 434 index in tokenstruc_s.
+2021-05-10 19:38:14,176 - ERROR: error at train_1059, can't find entity vaccine 1051 1058 index in tokenstruc_s.
+2021-05-10 19:38:14,179 - ERROR: error at train_1060, can't find entity monoclonal antibodies 1504 1525 index in tokenstruc_s.
+2021-05-10 19:38:14,217 - ERROR: error at train_1072, can't find entity COVID-19 1949 1957 index in tokenstruc_s.
+2021-05-10 19:38:14,217 - ERROR: error at train_1072, can't find entity COVID-19 1949 1957 index in tokenstruc_s.
+2021-05-10 19:38:14,217 - ERROR: error at train_1072, can't find entity COVID-19 1949 1957 index in tokenstruc_s.
+2021-05-10 19:38:14,223 - ERROR: error at train_1075, can't find entity COVID-19 938 946 index in tokenstruc_s.
+2021-05-10 19:38:14,231 - ERROR: error at train_1079, can't find entity HIV 486 489 index in tokenstruc_s.
+2021-05-10 19:38:14,282 - ERROR: error at train_1080, can't find entity coronavirus 160 171 index in tokenstruc_s.
+2021-05-10 19:38:14,285 - ERROR: error at train_1081, can't find entity antiviral innate 1244 1260 index in tokenstruc_s.
+2021-05-10 19:38:14,299 - ERROR: error at train_1087, can't find entity Coronavirus diseases 2380 2400 index in tokenstruc_s.
+2021-05-10 19:38:14,321 - ERROR: error at train_1094, can't find entity random digital dialing 390 412 index in tokenstruc_s.
+2021-05-10 19:38:14,332 - ERROR: error at train_1100, can't find entity aldosterone 488 499 index in tokenstruc_s.
+2021-05-10 19:38:14,344 - ERROR: error at train_1102, can't find entity COVID-19 1583 1591 index in tokenstruc_s.
+2021-05-10 19:38:14,344 - ERROR: error at train_1102, can't find entity COVID-19 1583 1591 index in tokenstruc_s.
+2021-05-10 19:38:14,344 - ERROR: error at train_1102, can't find entity COVID-19 1583 1591 index in tokenstruc_s.
+2021-05-10 19:38:14,345 - ERROR: error at train_1102, can't find entity COVID-19 1888 1896 index in tokenstruc_s.
+2021-05-10 19:38:14,348 - ERROR: error at train_1103, can't find entity coronavirus 1128 1139 index in tokenstruc_s.
+2021-05-10 19:38:14,364 - ERROR: error at train_1108, can't find entity COVID-19 1471 1479 index in tokenstruc_s.
+2021-05-10 19:38:14,364 - ERROR: error at train_1108, can't find entity COVID-19 1471 1479 index in tokenstruc_s.
+2021-05-10 19:38:14,364 - ERROR: error at train_1108, can't find entity COVID-19 1471 1479 index in tokenstruc_s.
+2021-05-10 19:38:14,399 - ERROR: error at train_1125, can't find entity critical illness 1722 1738 index in tokenstruc_s.
+2021-05-10 19:38:14,403 - ERROR: error at train_1127, can't find entity diabetes 402 410 index in tokenstruc_s.
+2021-05-10 19:38:14,412 - ERROR: error at train_1129, can't find entity COVID-19 1279 1287 index in tokenstruc_s.
+2021-05-10 19:38:14,413 - ERROR: error at train_1129, can't find entity COVID-19 1279 1287 index in tokenstruc_s.
+2021-05-10 19:38:14,428 - ERROR: error at train_1135, can't find entity RCTs 1931 1935 index in tokenstruc_s.
+2021-05-10 19:38:14,429 - ERROR: error at train_1135, can't find entity protective 2532 2542 index in tokenstruc_s.
+2021-05-10 19:38:14,432 - ERROR: error at train_1138, can't find entity foundation's 286 298 index in tokenstruc_s.
+2021-05-10 19:38:14,442 - ERROR: error at train_1143, can't find entity alerts 1596 1602 index in tokenstruc_s.
+2021-05-10 19:38:14,448 - ERROR: error at train_1144, can't find entity HCQ 3183 3186 index in tokenstruc_s.
+2021-05-10 19:38:14,455 - ERROR: error at train_1147, can't find entity antibiotic agents 1868 1885 index in tokenstruc_s.
+2021-05-10 19:38:14,458 - ERROR: error at train_1148, can't find entity reference compounds 255 274 index in tokenstruc_s.
+2021-05-10 19:38:14,458 - ERROR: error at train_1148, can't find entity reference compounds 255 274 index in tokenstruc_s.
+2021-05-10 19:38:14,458 - ERROR: error at train_1148, can't find entity compounds 677 686 index in tokenstruc_s.
+2021-05-10 19:38:14,475 - ERROR: error at train_1156, can't find entity Ca 2 732 736 index in tokenstruc_s.
+2021-05-10 19:38:14,479 - ERROR: error at train_1158, can't find entity ARIMA 936 941 index in tokenstruc_s.
+2021-05-10 19:38:14,496 - ERROR: error at train_1162, can't find entity vaccines 380 388 index in tokenstruc_s.
+2021-05-10 19:38:14,506 - ERROR: error at train_1165, can't find entity anti-malaria drugs 599 617 index in tokenstruc_s.
+2021-05-10 19:38:14,506 - ERROR: error at train_1165, can't find entity anti-malaria drugs 1570 1588 index in tokenstruc_s.
+2021-05-10 19:38:14,511 - ERROR: error at train_1166, can't find entity COVID-19 1562 1570 index in tokenstruc_s.
+2021-05-10 19:38:14,541 - ERROR: error at train_1180, can't find entity antiviral agents 1917 1933 index in tokenstruc_s.
+2021-05-10 19:38:14,541 - ERROR: error at train_1180, can't find entity antivirals 1996 2006 index in tokenstruc_s.
+2021-05-10 19:38:14,541 - ERROR: error at train_1180, can't find entity Antiviral agents 2082 2098 index in tokenstruc_s.
+2021-05-10 19:38:14,546 - ERROR: error at train_1184, can't find entity fluoxetine 299 309 index in tokenstruc_s.
+2021-05-10 19:38:14,558 - ERROR: error at train_1190, can't find entity COVID-19 2044 2052 index in tokenstruc_s.
+2021-05-10 19:38:14,580 - ERROR: error at train_1200, can't find entity crude 740 745 index in tokenstruc_s.
+2021-05-10 19:38:14,593 - ERROR: error at train_1205, can't find entity COVID-19 485 493 index in tokenstruc_s.
+2021-05-10 19:38:14,593 - ERROR: error at train_1205, can't find entity COVID-19 485 493 index in tokenstruc_s.
+2021-05-10 19:38:14,594 - ERROR: error at train_1205, can't find entity pneumonia 494 503 index in tokenstruc_s.
+2021-05-10 19:38:14,622 - ERROR: error at train_1216, can't find entity COVID-19 3593 3601 index in tokenstruc_s.
+2021-05-10 19:38:14,622 - ERROR: error at train_1216, can't find entity COVID-19 3593 3601 index in tokenstruc_s.
+2021-05-10 19:38:14,631 - ERROR: error at train_1218, can't find entity Arbidol 410 417 index in tokenstruc_s.
+2021-05-10 19:38:14,631 - ERROR: error at train_1218, can't find entity PEP 1429 1432 index in tokenstruc_s.
+2021-05-10 19:38:14,631 - ERROR: error at train_1218, can't find entity Oseltamivir 1661 1672 index in tokenstruc_s.
+2021-05-10 19:38:14,637 - ERROR: error at train_1221, can't find entity metformin 1277 1286 index in tokenstruc_s.
+2021-05-10 19:38:14,656 - ERROR: error at train_1233, can't find entity monoclonal antibodies 389 410 index in tokenstruc_s.
+2021-05-10 19:38:14,662 - ERROR: error at train_1235, can't find entity drug combinations 654 671 index in tokenstruc_s.
+2021-05-10 19:38:14,675 - ERROR: error at train_1239, can't find entity compounds 620 629 index in tokenstruc_s.
+2021-05-10 19:38:14,678 - ERROR: error at train_1241, can't find entity statin 376 382 index in tokenstruc_s.
+2021-05-10 19:38:14,698 - ERROR: error at train_1252, can't find entity Pancreatic cancer 235 252 index in tokenstruc_s.
+2021-05-10 19:38:14,705 - ERROR: error at train_1255, can't find entity immune sera 872 883 index in tokenstruc_s.
+2021-05-10 19:38:14,709 - ERROR: error at train_1257, can't find entity heparin 171 178 index in tokenstruc_s.
+2021-05-10 19:38:14,712 - ERROR: error at train_1258, can't find entity alerting 1146 1154 index in tokenstruc_s.
+2021-05-10 19:38:14,769 - ERROR: error at train_1285, can't find entity COVID-19 1914 1922 index in tokenstruc_s.
+2021-05-10 19:38:14,769 - ERROR: error at train_1285, can't find entity COVID-19 601 609 index in tokenstruc_s.
+2021-05-10 19:38:14,770 - ERROR: error at train_1285, can't find entity COVID-19 601 609 index in tokenstruc_s.
+2021-05-10 19:38:14,770 - ERROR: error at train_1285, can't find entity COVID-19 1914 1922 index in tokenstruc_s.
+2021-05-10 19:38:14,778 - ERROR: error at train_1288, can't find entity stem cells therapy 1356 1374 index in tokenstruc_s.
+2021-05-10 19:38:14,778 - ERROR: error at train_1288, can't find entity chloroquine 1418 1429 index in tokenstruc_s.
+2021-05-10 19:38:14,778 - ERROR: error at train_1288, can't find entity umifenovir 1438 1448 index in tokenstruc_s.
+2021-05-10 19:38:14,779 - ERROR: error at train_1288, can't find entity plasma treatment 1482 1498 index in tokenstruc_s.
+2021-05-10 19:38:14,779 - ERROR: error at train_1288, can't find entity favipiravir 1506 1517 index in tokenstruc_s.
+2021-05-10 19:38:14,779 - ERROR: error at train_1288, can't find entity methylprednisolone 1525 1543 index in tokenstruc_s.
+2021-05-10 19:38:14,779 - ERROR: error at train_1288, can't find entity remdesivir 1555 1565 index in tokenstruc_s.
+2021-05-10 19:38:14,785 - ERROR: error at train_1290, can't find entity rotavirus A 908 919 index in tokenstruc_s.
+2021-05-10 19:38:14,785 - ERROR: error at train_1290, can't find entity Nyangole virus 1053 1067 index in tokenstruc_s.
+2021-05-10 19:38:14,785 - ERROR: error at train_1290, can't find entity Bwamba orthobunyavirus 1137 1159 index in tokenstruc_s.
+2021-05-10 19:38:14,792 - ERROR: error at train_1291, can't find entity viral infection 1574 1589 index in tokenstruc_s.
+2021-05-10 19:38:14,792 - ERROR: error at train_1291, can't find entity GA 762 764 index in tokenstruc_s.
+2021-05-10 19:38:14,792 - ERROR: error at train_1291, can't find entity GA 897 899 index in tokenstruc_s.
+2021-05-10 19:38:14,792 - ERROR: error at train_1291, can't find entity GA 897 899 index in tokenstruc_s.
+2021-05-10 19:38:14,792 - ERROR: error at train_1291, can't find entity GA 1072 1074 index in tokenstruc_s.
+2021-05-10 19:38:14,793 - ERROR: error at train_1291, can't find entity GA 1072 1074 index in tokenstruc_s.
+2021-05-10 19:38:14,793 - ERROR: error at train_1291, can't find entity GA 1072 1074 index in tokenstruc_s.
+2021-05-10 19:38:14,793 - ERROR: error at train_1291, can't find entity GA 1072 1074 index in tokenstruc_s.
+2021-05-10 19:38:14,793 - ERROR: error at train_1291, can't find entity GA 1072 1074 index in tokenstruc_s.
+2021-05-10 19:38:14,793 - ERROR: error at train_1291, can't find entity GA 1072 1074 index in tokenstruc_s.
+2021-05-10 19:38:14,793 - ERROR: error at train_1291, can't find entity GA 1296 1298 index in tokenstruc_s.
+2021-05-10 19:38:14,793 - ERROR: error at train_1291, can't find entity GA 1296 1298 index in tokenstruc_s.
+2021-05-10 19:38:14,793 - ERROR: error at train_1291, can't find entity GA 1568 1570 index in tokenstruc_s.
+2021-05-10 19:38:14,794 - ERROR: error at train_1291, can't find entity GA 1568 1570 index in tokenstruc_s.
+2021-05-10 19:38:14,794 - ERROR: error at train_1291, can't find entity GA 1568 1570 index in tokenstruc_s.
+2021-05-10 19:38:14,794 - ERROR: error at train_1291, can't find entity GA 1568 1570 index in tokenstruc_s.
+2021-05-10 19:38:14,794 - ERROR: error at train_1291, can't find entity GA 1568 1570 index in tokenstruc_s.
+2021-05-10 19:38:14,794 - ERROR: error at train_1291, can't find entity GA 1568 1570 index in tokenstruc_s.
+2021-05-10 19:38:14,794 - ERROR: error at train_1291, can't find entity GA 1568 1570 index in tokenstruc_s.
+2021-05-10 19:38:14,794 - ERROR: error at train_1291, can't find entity GA 1568 1570 index in tokenstruc_s.
+2021-05-10 19:38:14,794 - ERROR: error at train_1291, can't find entity GA 1568 1570 index in tokenstruc_s.
+2021-05-10 19:38:14,819 - ERROR: error at train_1300, can't find entity ¦Á1-AR antagonists 1057 1074 index in tokenstruc_s.
+2021-05-10 19:38:14,820 - ERROR: error at train_1300, can't find entity prazosin 1370 1378 index in tokenstruc_s.
+2021-05-10 19:38:14,820 - ERROR: error at train_1300, can't find entity ¦Á1-AR antagonists 2934 2951 index in tokenstruc_s.
+2021-05-10 19:38:14,820 - ERROR: error at train_1300, can't find entity prazosin 3108 3116 index in tokenstruc_s.
+2021-05-10 19:38:14,825 - ERROR: error at train_1301, can't find entity Angiotensin II receptor blocker 677 708 index in tokenstruc_s.
+2021-05-10 19:38:14,825 - ERROR: error at train_1301, can't find entity thiazide 1003 1011 index in tokenstruc_s.
+2021-05-10 19:38:14,826 - ERROR: error at train_1301, can't find entity ARB drugs 1700 1709 index in tokenstruc_s.
+2021-05-10 19:38:14,826 - ERROR: error at train_1301, can't find entity anti-hypertension drugs 2137 2160 index in tokenstruc_s.
+2021-05-10 19:38:14,837 - ERROR: error at train_1305, can't find entity Austin 2711 2717 index in tokenstruc_s.
+2021-05-10 19:38:14,841 - ERROR: error at train_1306, can't find entity SARS-CoV-2 227 237 index in tokenstruc_s.
+2021-05-10 19:38:14,841 - ERROR: error at train_1306, can't find entity SARS-CoV-2 375 385 index in tokenstruc_s.
+2021-05-10 19:38:14,841 - ERROR: error at train_1306, can't find entity SARS-CoV-2 1378 1388 index in tokenstruc_s.
+2021-05-10 19:38:14,843 - ERROR: error at train_1307, can't find entity anthracycline 335 348 index in tokenstruc_s.
+2021-05-10 19:38:14,849 - ERROR: error at train_1308, can't find entity HCQ 1205 1208 index in tokenstruc_s.
+2021-05-10 19:38:14,849 - ERROR: error at train_1308, can't find entity HCQ 1482 1485 index in tokenstruc_s.
+2021-05-10 19:38:14,849 - ERROR: error at train_1308, can't find entity HCQ 1760 1763 index in tokenstruc_s.
+2021-05-10 19:38:14,850 - ERROR: error at train_1309, can't find entity vaccines 462 470 index in tokenstruc_s.
+2021-05-10 19:38:14,851 - ERROR: error at train_1309, can't find entity vaccine 596 603 index in tokenstruc_s.
+2021-05-10 19:38:14,856 - ERROR: error at train_1311, can't find entity SARS-CoV-2 960 970 index in tokenstruc_s.
+2021-05-10 19:38:14,856 - ERROR: error at train_1311, can't find entity SARS-CoV 1970 1978 index in tokenstruc_s.
+2021-05-10 19:38:14,860 - ERROR: error at train_1313, can't find entity MMR 920 923 index in tokenstruc_s.
+2021-05-10 19:38:14,865 - ERROR: error at train_1314, can't find entity sirolimus 1378 1387 index in tokenstruc_s.
+2021-05-10 19:38:14,865 - ERROR: error at train_1314, can't find entity drug combinations 1993 2010 index in tokenstruc_s.
+2021-05-10 19:38:14,874 - ERROR: error at train_1317, can't find entity CB4856 1898 1904 index in tokenstruc_s.
+2021-05-10 19:38:14,888 - ERROR: error at train_1320, can't find entity sirolimus 1544 1553 index in tokenstruc_s.
+2021-05-10 19:38:14,896 - ERROR: error at train_1322, can't find entity cancer 217 223 index in tokenstruc_s.
+2021-05-10 19:38:14,904 - ERROR: error at train_1324, can't find entity HCQ 1137 1140 index in tokenstruc_s.
+2021-05-10 19:38:14,904 - ERROR: error at train_1324, can't find entity HCQ 1428 1431 index in tokenstruc_s.
+2021-05-10 19:38:14,904 - ERROR: error at train_1324, can't find entity HCQ 1690 1693 index in tokenstruc_s.
+2021-05-10 19:38:14,904 - ERROR: error at train_1324, can't find entity HCQ 1954 1957 index in tokenstruc_s.
+2021-05-10 19:38:14,914 - ERROR: error at train_1326, can't find entity COVID-19 637 645 index in tokenstruc_s.
+2021-05-10 19:38:14,914 - ERROR: error at train_1326, can't find entity COVID-19 1151 1159 index in tokenstruc_s.
+2021-05-10 19:38:14,914 - ERROR: error at train_1326, can't find entity COVID-19 1151 1159 index in tokenstruc_s.
